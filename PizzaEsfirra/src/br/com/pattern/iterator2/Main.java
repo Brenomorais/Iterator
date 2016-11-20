@@ -1,8 +1,8 @@
-package br.padroes.iterator2;
+package br.com.pattern.iterator2;
 
-import br.padroes.iterator1.AgregadoCardapio;
-import br.padroes.iterator1.CardapioEsfirra;
-import br.padroes.iterator1.CardapioPizza;
+import br.com.pattern.iterator1.AgregadoCardapio;
+import br.com.pattern.iterator1.CardapioEsfirra;
+import br.com.pattern.iterator1.CardapioPizza;
 
 public class Main {
 	public static void main(String[] args) {

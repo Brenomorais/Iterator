@@ -1,7 +1,7 @@
-package br.padroes.iterator2;
+package br.com.pattern.iterator2;
 
-import br.padroes.iterator1.IteradorInterface;
-import br.padroes.iterator1.Prato;
+import br.com.pattern.iterator1.IteradorInterface;
+import br.com.pattern.iterator1.Prato;
 
 public class IteradorPrint extends IteradorInterno {
 

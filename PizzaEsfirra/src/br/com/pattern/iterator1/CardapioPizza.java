@@ -1,4 +1,4 @@
-package br.padroes.iterator1;
+package br.com.pattern.iterator1;
 
 //AgregadoConcreto
 public class CardapioPizza implements AgregadoCardapio {
